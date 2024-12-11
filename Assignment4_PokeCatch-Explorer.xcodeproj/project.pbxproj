@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		CE3082CD2D08278500750A78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CE3082AB2D08278200750A78 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CE3082B22D08278200750A78;
+			remoteInfo = "Assignment4_PokeCatch-Explorer";
+		};
+		CE3082D72D08278500750A78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CE3082AB2D08278200750A78 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CE3082B22D08278200750A78;
+			remoteInfo = "Assignment4_PokeCatch-Explorer";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CE3082B32D08278200750A78 /* Assignment4_PokeCatch-Explorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment4_PokeCatch-Explorer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE3082CC2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment4_PokeCatch-ExplorerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE3082D62D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment4_PokeCatch-ExplorerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		CE3082DE2D08278500750A78 /* Exceptions for "Assignment4_PokeCatch-Explorer" folder in "Assignment4_PokeCatch-Explorer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = CE3082B22D08278200750A78 /* Assignment4_PokeCatch-Explorer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		CE3082B52D08278200750A78 /* Assignment4_PokeCatch-Explorer */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				CE3082DE2D08278500750A78 /* Exceptions for "Assignment4_PokeCatch-Explorer" folder in "Assignment4_PokeCatch-Explorer" target */,
+			);
+			path = "Assignment4_PokeCatch-Explorer";
+			sourceTree = "<group>";
+		};
+		CE3082CF2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Assignment4_PokeCatch-ExplorerTests";
+			sourceTree = "<group>";
+		};
+		CE3082D92D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Assignment4_PokeCatch-ExplorerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CE3082B02D08278200750A78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082C92D08278500750A78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082D32D08278500750A78 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CE3082AA2D08278200750A78 = {
+			isa = PBXGroup;
+			children = (
+				CE3082B52D08278200750A78 /* Assignment4_PokeCatch-Explorer */,
+				CE3082CF2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests */,
+				CE3082D92D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests */,
+				CE3082B42D08278200750A78 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CE3082B42D08278200750A78 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE3082B32D08278200750A78 /* Assignment4_PokeCatch-Explorer.app */,
+				CE3082CC2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests.xctest */,
+				CE3082D62D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CE3082B22D08278200750A78 /* Assignment4_PokeCatch-Explorer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE3082DF2D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-Explorer" */;
+			buildPhases = (
+				CE3082AF2D08278200750A78 /* Sources */,
+				CE3082B02D08278200750A78 /* Frameworks */,
+				CE3082B12D08278200750A78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE3082B52D08278200750A78 /* Assignment4_PokeCatch-Explorer */,
+			);
+			name = "Assignment4_PokeCatch-Explorer";
+			packageProductDependencies = (
+			);
+			productName = "Assignment4_PokeCatch-Explorer";
+			productReference = CE3082B32D08278200750A78 /* Assignment4_PokeCatch-Explorer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CE3082CB2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE3082E42D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-ExplorerTests" */;
+			buildPhases = (
+				CE3082C82D08278500750A78 /* Sources */,
+				CE3082C92D08278500750A78 /* Frameworks */,
+				CE3082CA2D08278500750A78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CE3082CE2D08278500750A78 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CE3082CF2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests */,
+			);
+			name = "Assignment4_PokeCatch-ExplorerTests";
+			packageProductDependencies = (
+			);
+			productName = "Assignment4_PokeCatch-ExplorerTests";
+			productReference = CE3082CC2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CE3082D52D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE3082E72D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-ExplorerUITests" */;
+			buildPhases = (
+				CE3082D22D08278500750A78 /* Sources */,
+				CE3082D32D08278500750A78 /* Frameworks */,
+				CE3082D42D08278500750A78 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CE3082D82D08278500750A78 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CE3082D92D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests */,
+			);
+			name = "Assignment4_PokeCatch-ExplorerUITests";
+			packageProductDependencies = (
+			);
+			productName = "Assignment4_PokeCatch-ExplorerUITests";
+			productReference = CE3082D62D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CE3082AB2D08278200750A78 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					CE3082B22D08278200750A78 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE3082CB2D08278500750A78 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = CE3082B22D08278200750A78;
+					};
+					CE3082D52D08278500750A78 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = CE3082B22D08278200750A78;
+					};
+				};
+			};
+			buildConfigurationList = CE3082AE2D08278200750A78 /* Build configuration list for PBXProject "Assignment4_PokeCatch-Explorer" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE3082AA2D08278200750A78;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = CE3082B42D08278200750A78 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CE3082B22D08278200750A78 /* Assignment4_PokeCatch-Explorer */,
+				CE3082CB2D08278500750A78 /* Assignment4_PokeCatch-ExplorerTests */,
+				CE3082D52D08278500750A78 /* Assignment4_PokeCatch-ExplorerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CE3082B12D08278200750A78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082CA2D08278500750A78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082D42D08278500750A78 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CE3082AF2D08278200750A78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082C82D08278500750A78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE3082D22D08278500750A78 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CE3082CE2D08278500750A78 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CE3082B22D08278200750A78 /* Assignment4_PokeCatch-Explorer */;
+			targetProxy = CE3082CD2D08278500750A78 /* PBXContainerItemProxy */;
+		};
+		CE3082D82D08278500750A78 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CE3082B22D08278200750A78 /* Assignment4_PokeCatch-Explorer */;
+			targetProxy = CE3082D72D08278500750A78 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CE3082E02D08278500750A78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Assignment4_PokeCatch-Explorer/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-Explorer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CE3082E12D08278500750A78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Assignment4_PokeCatch-Explorer/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-Explorer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CE3082E22D08278500750A78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CE3082E32D08278500750A78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CE3082E52D08278500750A78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-ExplorerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Assignment4_PokeCatch-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Assignment4_PokeCatch-Explorer";
+			};
+			name = Debug;
+		};
+		CE3082E62D08278500750A78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-ExplorerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Assignment4_PokeCatch-Explorer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Assignment4_PokeCatch-Explorer";
+			};
+			name = Release;
+		};
+		CE3082E82D08278500750A78 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-ExplorerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Assignment4_PokeCatch-Explorer";
+			};
+			name = Debug;
+		};
+		CE3082E92D08278500750A78 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mine.Assignment4-PokeCatch-ExplorerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Assignment4_PokeCatch-Explorer";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE3082AE2D08278200750A78 /* Build configuration list for PBXProject "Assignment4_PokeCatch-Explorer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3082E22D08278500750A78 /* Debug */,
+				CE3082E32D08278500750A78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE3082DF2D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-Explorer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3082E02D08278500750A78 /* Debug */,
+				CE3082E12D08278500750A78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE3082E42D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-ExplorerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3082E52D08278500750A78 /* Debug */,
+				CE3082E62D08278500750A78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE3082E72D08278500750A78 /* Build configuration list for PBXNativeTarget "Assignment4_PokeCatch-ExplorerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3082E82D08278500750A78 /* Debug */,
+				CE3082E92D08278500750A78 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE3082AB2D08278200750A78 /* Project object */;
+}
